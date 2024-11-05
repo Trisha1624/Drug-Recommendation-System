@@ -1,4 +1,4 @@
-# Drug-Recommendation-System
+# Drug-Recommendation-System using Ensemble Learning
 Took a dataset that containd various features like
 
 Medical Condition
